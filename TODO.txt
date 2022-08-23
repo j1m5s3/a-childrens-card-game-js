@@ -1,4 +1,8 @@
 0. Create multiplayer card game to use local assets
+    * Create server
+    * Create client
+    * Create card assets
+        * Client load assets
 1. Swap local assets with references to nfts
 2. Card transfers
 3. Pack creation
